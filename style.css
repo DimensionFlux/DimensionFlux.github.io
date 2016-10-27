@@ -1,7 +1,12 @@
-h1 {
-    color:blue;
-    text-decoration: bold;
-
-
-
+body {
+    background-color: black;
 }
+
+.RoughHousing_Image {
+    margin:20px;
+    width:20px;
+}
+.CentreImage {
+    width: 100%;
+}
+
