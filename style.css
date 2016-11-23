@@ -1,5 +1,95 @@
 body {
     background-color: black;
+    color: aqua;
+    text-decoration: bold
+}
+
+.review-image {
+    width:200px;
+}
+
+.review-image2 {
+	width:200px;
+}
+
+.review-image3 {
+	width:200px;
+}
+
+.about {
+	width:100%;
+	height:auto;
+	padding:1%;
+}
+
+.review-image4 {
+	width: 700px;
+	height:800px;
+}
+
+.about1 {
+	color: white;
+	text-decoration: bold;
+	font-family:arial;
+	font-size: 20px;
+}
+
+.about2 {
+	color:grey;
+	font-family:helvetica;
+	font-size: 20px;
+}
+
+.about3 {
+	color:white;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.about4 {
+	color:grey;
+	font-family: helvetica;
+	font-size:20px;
+}
+
+.about5 {
+	color:grey;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+.text {
+	float: left;
+}
+
+.gigs-image1 {
+	width:400px;
+	vertical-align: left;
+}
+
+.gigs-image2 {
+	width:400px;
+	vertical-align: middle;
+}
+
+.gigs-image3 {
+	width:400px;
+	vertical-align: right;
+}
+
+.gigs-image4 {
+	width:400px;
+	vertical-align: left;
+}
+
+.gigs-image5 {
+	width: 400px;
+	vertical-align: middle;
+}
+
+.gigs-image6 {
+	width: 400px;
+	vertical-align: right;
 }
 
 .RoughHousing_Image {
@@ -10,4 +100,30 @@ body {
     width: 100%;
     border: 2px aqua solid;
 }
+.link {
+	font-family: Algerian;
+	text-decoration: bold;
+	font-size: 30px;
+	color: black;
+}
 
+.btn-twitter {
+	background-color: black;
+}
+
+.btn-facebook {
+	background-color:black;
+}
+
+.btn-pinterest {
+	background-color:black;
+}
+
+.navbar-header {
+	margin: 15px;
+	height: 50px;
+	width: 98%;
+	border-radius: 20px;
+	background-image: url("Navbar.png");
+	background-repeat: repeat-x;
+}
